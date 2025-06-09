@@ -16,7 +16,7 @@ const skills = [
   { name: "NextJS", icon: "/icons/Next.js.png" },
   { name: "MongoDB", icon: "/icons/MongoDB.png" },
   { name: "Redis", icon: "/icons/Redis.png" },
-  { name: "PostgresSQL", icon: "/icons/PostgreSSQL.png" },
+  { name: "PostgresSQL", icon: "/icons/PostgresSQL.png" },
   { name: "Docker", icon: "/icons/Docker.png" },
   { name: "Jenkins", icon: "/icons/Jenkins.png" },
   { name: "Ansible", icon: "/icons/Ansible.png" },
