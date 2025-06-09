@@ -8,7 +8,7 @@ export default function Home() {
     <div className="w-full px-4 sm:px-8">
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-4 pt-28 items-center lg:min-h-screen">
         <div className="lg:col-span-4 font-[Merriweather] text-5xl sm:text-6xl md:text-7xl lg:text-9xl font-bold text-center lg:text-left space-y-2">
-          <p>Hi, I'm Satnam,</p>
+          <p>Hi, I&apos;m Satnam,</p>
           <p>a Full Stack Web</p>
           <p>Developer</p>
         </div>
