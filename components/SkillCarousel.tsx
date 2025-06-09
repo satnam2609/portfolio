@@ -7,8 +7,8 @@ import { useEffect } from "react";
 
 const skills = [
   { name: "Rust", icon: "/icons/Rust.png" },
-  { name: "Typescript", icon: "/icons/Typescript.png" },
-  { name: "Javascript", icon: "/icons/Javascript.png" },
+  { name: "Typescript", icon: "/icons/TypeScript.png" },
+  { name: "Javascript", icon: "/icons/JavaScript.png" },
   { name: "C", icon: "/icons/C.png" },
   { name: "Python", icon: "/icons/Python.png" },
   { name: "NodeJS", icon: "/icons/Node.js.png" },
